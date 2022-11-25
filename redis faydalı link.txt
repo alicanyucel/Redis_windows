@@ -1,0 +1,2 @@
+https://www.gencayyildiz.com/blog/redis-yazi-serisi-11-redis-ile-distributedcache-kullanimi/
+https://www.yusufsezer.com.tr/redis/
